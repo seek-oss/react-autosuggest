@@ -1,5 +1,5 @@
 {
-  "name": "react-autosuggest",
+  "name": "@seek/react-autosuggest",
   "version": "9.3.4",
   "description": "WAI-ARIA compliant React autosuggest component",
   "main": "dist/index.js",
